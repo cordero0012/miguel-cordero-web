@@ -1,5 +1,5 @@
-:HL["/_next/static/chunks/9f9db704475e173f.css","style"]
+:HL["/_next/static/chunks/9cd227171673c82e.css","style"]
 :HL["/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/images/miguel-main.jpg","image"]
 :HL["/images/miguel-serious.jpg","image"]
-0:{"buildId":"UJOl9BcU_xE4GJJIGVok0","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"QSAIRgW2AsDUuEq8GjriE","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
